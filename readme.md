@@ -1,4 +1,4 @@
-# AnnotationTracker Sample
+# Annotation Tracker Sample
 
 This is a sample project to make use of AspectJ to create a centralized tracker library which support tracking by annotations.
 
