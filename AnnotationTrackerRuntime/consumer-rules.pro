@@ -1,0 +1,2 @@
+-keep class com.sakiwei.demo.annotationTracker.runtime.** { *; }
+-keep @interface com.sakiwei.demo.annotationTracker.runtime.**
