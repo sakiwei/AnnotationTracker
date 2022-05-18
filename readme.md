@@ -12,7 +12,7 @@ Run this gradle command from project root:
 $ ./gradlew :AnnotationTrackerRuntime:assemble
 ```
 
-Then AAR will be generated in: 
+Then AAR library will be generated in: 
 
 ```
 AnnotationTrackerRuntime/build/outputs/aar/
@@ -22,7 +22,7 @@ AnnotationTrackerRuntime/build/outputs/aar/
 
 ### How to use the AnnotationTrackerRuntime
 
-#### By embeding whole library module (source code)
+#### By adding AAR library (Recommended) 
 
 1. Copy the `AnnotationTrackerRuntime.aar` to `app/libs`
 2. Add the following lines to `app/build.gradle` under `dependencies`:
